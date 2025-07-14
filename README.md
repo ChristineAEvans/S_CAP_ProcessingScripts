@@ -4,4 +4,4 @@ Forest Cover Change Classification README contains information on global, tropic
 
 Carbon Stock & Emissions README contains information on global, tropical, and national datasets; including date ranges, source and resampled resolutions and data citations. General methodology behind the calculation and generation of estimates are included in the scripts.
 
-Workshop and [Mining](https://github.com/katieailsa/S-CAP) Scripts provide application examples of the S-CAP project
+Workshop and [Mining](https://github.com/katieailsa/S-CAP_mining_emissions) Scripts provide application examples of the S-CAP project
