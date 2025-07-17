@@ -6,7 +6,7 @@
 ## Description
 These scripts were orginally created within the scope of a project for the [SERVIR-CArbon Pilot (S-CAP)](https://s-cap.servirglobal.net/) which focused on 15 pilot countries across the [SERVIR](https://science.nasa.gov/category/missions/servir/) network. The scripts fall within two catagories:
 
-(i) **forest cover change classification**, and
+(i) **forest cover change classification**
 
 (ii) **carbon stock & emissions**.
 
